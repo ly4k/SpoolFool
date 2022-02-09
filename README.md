@@ -1,6 +1,6 @@
 # SpoolFool
 
-Exploit for CVE-2022–22718 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE)
+Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE)
 
 ## Details
 
@@ -63,4 +63,4 @@ After the exploit has been executed, the following artifacts will be left for la
 - Oliver Lyak [@ly4k_](https://twitter.com/ly4k_)
 
 ## References
-- [SpoolFool: Windows Print Spooler Privilege Escalation (CVE-2022–22718)](https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81)
+- [SpoolFool: Windows Print Spooler Privilege Escalation (CVE-2022-21999)](https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81)
